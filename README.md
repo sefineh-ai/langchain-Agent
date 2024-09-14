@@ -6,5 +6,5 @@ Here's what I used to build the AI agent:
 #LangChain: For building the AI-agent
 #ASTRA_DB_VectorStore: To store information as embeddings for efficient retrieval.
 #RAG #AI #Agent
-[https://python.langchain.com/](langchain)
-[https://astra.datastax.com/](Datastax)
+[langChain]([langchain](https://python.langchain.com/))
+[Datastax](https://astra.datastax.com/)
